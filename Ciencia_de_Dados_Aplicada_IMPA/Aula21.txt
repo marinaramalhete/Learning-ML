@@ -1,0 +1,18 @@
+O que aprendemos no módulo de NLP??
+
+Tokenização
+Normalização
+Stemming (aparar)
+Lematização
+POS tagging
+NLP no Pandas
+NLTK
+Estudo de caso: Análise de Sentimento - Amazon
+		Sumarização automática
+Estudo de caso: Classificação Multi-classe
+		Classificação Multi-label
+Modelagem de tõpicos - GENSIM, SPACY
+
+Latent Dirichlet Allocation Model
+Non-Negative Matrix Factorization Model
+Latent Semantic Indexing Model
