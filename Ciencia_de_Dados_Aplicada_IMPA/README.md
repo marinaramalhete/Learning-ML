@@ -1,6 +1,6 @@
 # Disciplina: [Ciência de Dados Aplicada](https://w3.impa.br/~vitorgr/CDA/index.html) - [IMPA](https://impa.br/ensino/programas-de-formacao/doutorado/disciplinas-doutorado/ciencia-de-dados-aplicada/)
 
---------------
+
 ### Referências Principais
 - VANDERPLAS, J. – Python Data Science Handbook: Essential Tools for Working with Data (1st ed.). O’Reilly Media, Inc., 2016.
 - MCKINNEY, W. - Python for Data Analysis (1 ed.). O'Reilly Media, Inc., 2012.
